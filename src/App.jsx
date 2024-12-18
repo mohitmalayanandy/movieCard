@@ -4,7 +4,14 @@ function App() {
 
   return (
     <>
-      <div>
+      <NetflixSeries />
+    </>
+  )
+}
+
+const NetflixSeries = () => {
+  return(
+    <div>
         <div>
           <img src="https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg"
             alt="Pushpa 2 banner"
@@ -18,7 +25,6 @@ function App() {
           <button>Not Available</button>
         </div>
       </div>
-    </>
   )
 }
 
