@@ -1,1 +1,1 @@
-# Movie Card Uasing Vite + react
+# Movie Card Using Vite + react
