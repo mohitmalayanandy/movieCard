@@ -32,7 +32,7 @@
     {
       "name": "The Crown",
       "id": "the-crown",
-      "img_url": "../images/TheCrown.j  pg",
+      "img_url": "../images/TheCrown.jpg",
       "rating": "8.6",
       "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
       "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
@@ -65,8 +65,48 @@
       "img_url": "../images/Mismatched.jpg",
       "rating": "5.9",
       "description": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program — but deeper feelings aren’t far behind.",
-      "cast": ["Prajakta Koli, Rohit Saraf, Taaruk Raina, Muskkaan Jaferi, Rannvijay Singha, Vidya Malavade, Ahsaas Channa, Abhinav Sharma, Lauren Robinson, and Vihaan Samat"],
+      "cast": ["Prajakta Koli", "Rohit Saraf", "Taaruk Raina", "Muskkaan Jaferi", "Rannvijay Singha", "Vidya Malavade", "Ahsaas Channa", "Abhinav Sharma", "Lauren Robinson", "Vihaan Samat"],
       "genre": ["Romantic TV Dramas", "TV Dramas", "TV Shows Based on Books", "Teen TV Shows", "TV Comedies", "Romantic TV Comedies", "and Hindi-Language TV Shows"],
       "watch_url": "https://www.netflix.com/in/title/80220079"
+    },
+    {
+      "name": "The Umbrella Academy",
+      "id": "the-umbrella-academy",
+      "img_url": "../images/TheUmbrellaAcademy.jpg",
+      "rating": "8.0",
+      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "cast": ["Ellen Page", "Tom Hopper", "David Castañeda"],
+      "genre": ["Action", "Adventure", "Comedy"],
+      "watch_url": "https://www.netflix.com/title/80186863"
+    },
+    {
+      "name": "The Haunting of Hill House",
+      "id": "the-haunting-of-hill-house",
+      "img_url": "../images/TheHauntingOfHillHouse.jpg",
+      "rating": "8.6",
+      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+      "cast": ["Michiel Huisman", "Carla Gugino", "Henry Thomas"],
+      "genre": ["Drama", "Horror", "Mystery"],
+      "watch_url": "https://www.netflix.com/title/80189221"
+    },
+    {
+      "name": "The Queen's Gambit",
+      "id": "the-queens-gambit",
+      "img_url": "../images/TheQueensGambit.jpg",
+      "rating": "8.6",
+      "description": "Orphaned at 9, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA.",
+      "cast": ["Anya Taylor-Joy", "Chloe Pirrie", "Bill Camp"],
+      "genre": ["Drama"],
+      "watch_url": "https://www.netflix.com/title/80234304"
+    },
+    {
+      "name": "The Mandalorian",
+      "id": "the-mandalorian",
+      "img_url": "../images/TheMandalorian.jpg",
+      "rating": "8.8",
+      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "cast": ["Pedro Pascal", "Gina Carano", "Giancarlo Esposito"],
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "watch_url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD"
     }
   ]
