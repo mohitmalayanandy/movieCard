@@ -1,4 +1,5 @@
-// Example of Named Export
+import './LayoutComponents.css';
+
 export const Header = () => {
     return(
         <>
