@@ -11,7 +11,7 @@ export const Header = () => {
 export const Footer = () => {
     return(
         <>
-        <h5>Copyright © 2024 Movie Card, India. All rights reserved</h5>
+        <h4>Copyright © 2024 Movie Card, India. All rights reserved</h4>
         </>
     )
 }

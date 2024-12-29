@@ -23,8 +23,8 @@ const SeriesCard = ({ props }) => {
           <h1><b>Name:</b> {name} </h1>
           <h2><b>Ratting:</b> <span className={`rating ${ratingClass}`}>{rating}</span> </h2>
           <p><b>Summary:</b> {description} </p>
-          <p>Cast: {cast.join(", ")}</p>
-          <p>Genre: {genre.join(", ")} </p>
+          <p><b>Cast:</b> {cast.join(", ")}</p>
+          <p><b>Genre:</b> {genre.join(", ")} </p>
           <a href={watch_url} target="_blank" >
             <button style={btn_style}>Watch Now</button>
           </a>
