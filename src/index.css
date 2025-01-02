@@ -71,3 +71,61 @@ app */
   .grid-three--cols{
     grid-template-columns: repeat(3, 1fr);
   }
+
+  /* Large Screens (Desktops) */
+@media (max-width: 1200px) {
+  .container {
+    padding: 6.4rem 1.6rem;
+  }
+
+  .grid {
+    gap: 4.8rem;
+  }
+
+  h1 {
+    font-size: 2.8rem;
+  }
+
+  p, li, a, label {
+    font-size: 1.6rem;
+  }
+}
+
+/* Medium Screens (Tablets) */
+@media (max-width: 768px) {
+  .container {
+    padding: 4.8rem 1.2rem;
+  }
+
+  .grid-two-cols, .grid-three--cols {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  p, li, a, label {
+    font-size: 1.4rem;
+  }
+}
+
+/* Small Screens (Mobile Phones) */
+@media (max-width: 480px) {
+  html {
+    font-size: 50%; /* Adjust base font size */
+  }
+
+  .container {
+    padding: 3.2rem 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  p, li, a, label {
+    font-size: 1.2rem;
+    letter-spacing: 0.05rem;
+  }
+}
