@@ -1,112 +1,2595 @@
 [
-    {
-      "name": "Stranger Things",
-      "id": "stranger-things",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/StrangerThings.jpg?raw=true",
-      "rating": "8.7",
-      "description": "A group of young friends witness supernatural forces and secret government exploits.",
-      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
-      "genre": ["Drama", "Fantasy", "Horror"],
-      "watch_url": "https://www.netflix.com/title/80057281"
-    },
-    {
-      "name": "The Witcher",
-      "id": "the-witcher",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheWitcher.jpg?raw=true",
-      "rating": "8.2",
-      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
-      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
-      "genre": ["Action", "Adventure", "Drama"],
-      "watch_url": "https://www.netflix.com/title/80189685"
-    },
-    {
-      "name": "Money Heist",
-      "id": "money-heist",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/MoneyHeist.jpg?raw=true",
-      "rating": "8.3",
-      "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
-      "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
-      "genre": ["Action", "Crime", "Drama"],
-      "watch_url": "https://www.netflix.com/title/80192098"
-    },
-    {
-      "name": "The Crown",
-      "id": "the-crown",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheCrown.jpg?raw=true",
-      "rating": "8.6",
-      "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
-      "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
-      "genre": ["Biography", "Drama", "History"],
-      "watch_url": "https://www.netflix.com/title/80025678"
-    },
-    {
-      "name": "Squid Game",
-      "id": "squid-game",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/SquidGame.jpg?raw=true",
-      "rating": "8.1",
-      "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
-      "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
-      "genre": ["Action", "Drama", "Mystery"],
-      "watch_url": "https://www.netflix.com/title/81040344"
-    },
-    {
-      "name": "Queen of Tears",
-      "id": "queen-of-tears",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/QueenOfTears.jpg?raw=true",
-      "rating": "8.6",
-      "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
-      "cast": ["Kim Soo Hyun", "Kim Ji Won"],
-      "genre": ["Drama", "Romance"],
-      "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
-    },
-    {
-      "name": "Mismatched",
-      "id": "mismatched",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/Mismatched.jpg?raw=true",
-      "rating": "5.9",
-      "description": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program — but deeper feelings aren’t far behind.",
-      "cast": ["Prajakta Koli", "Rohit Saraf", "Taaruk Raina", "Muskkaan Jaferi", "Rannvijay Singha", "Vidya Malavade", "Ahsaas Channa", "Abhinav Sharma", "Lauren Robinson", "Vihaan Samat"],
-      "genre": ["Romantic TV Dramas", "TV Dramas", "TV Shows Based on Books", "Teen TV Shows", "TV Comedies", "Romantic TV Comedies", "and Hindi-Language TV Shows"],
-      "watch_url": "https://www.netflix.com/in/title/80220079"
-    },
-    {
-      "name": "The Umbrella Academy",
-      "id": "the-umbrella-academy",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheUmbrellaAcademy.jpg?raw=true",
-      "rating": "8.0",
-      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
-      "cast": ["Ellen Page", "Tom Hopper", "David Castañeda"],
-      "genre": ["Action", "Adventure", "Comedy"],
-      "watch_url": "https://www.netflix.com/title/80186863"
-    },
-    {
-      "name": "The Haunting of Hill House",
-      "id": "the-haunting-of-hill-house",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheHauntingOfHillHouse.jpg?raw=true",
-      "rating": "8.6",
-      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
-      "cast": ["Michiel Huisman", "Carla Gugino", "Henry Thomas"],
-      "genre": ["Drama", "Horror", "Mystery"],
-      "watch_url": "https://www.netflix.com/title/80189221"
-    },
-    {
-      "name": "The Queen's Gambit",
-      "id": "the-queens-gambit",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheQueensGambit.jpg?raw=true",
-      "rating": "8.6",
-      "description": "Orphaned at 9, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA.",
-      "cast": ["Anya Taylor-Joy", "Chloe Pirrie", "Bill Camp"],
-      "genre": ["Drama"],
-      "watch_url": "https://www.netflix.com/title/80234304"
-    },
-    {
-      "name": "The Mandalorian",
-      "id": "the-mandalorian",
-      "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheMandalorian.jpg?raw=true",
-      "rating": "8.8",
-      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
-      "cast": ["Pedro Pascal", "Gina Carano", "Giancarlo Esposito"],
-      "genre": ["Action", "Adventure", "Fantasy"],
-      "watch_url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD"
-    }
-  ]
+  {
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/StrangerThings.jpg?raw=true",
+    "rating": "8.7",
+    "description": "A group of young friends witness supernatural forces and secret government exploits.",
+    "cast": [
+      "Winona Ryder",
+      "David Harbour",
+      "Millie Bobby Brown"
+    ],
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "watch_url": "https://www.netflix.com/title/80057281",
+    "type": "series"
+  },
+  {
+    "name": "The Witcher",
+    "id": "the-witcher",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheWitcher.jpg?raw=true",
+    "rating": "8.2",
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "cast": [
+      "Henry Cavill",
+      "Anya Chalotra",
+      "Freya Allan"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/80189685",
+    "type": "series"
+  },
+  {
+    "name": "Money Heist",
+    "id": "money-heist",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/MoneyHeist.jpg?raw=true",
+    "rating": "8.3",
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": [
+      "Úrsula Corberó",
+      "Álvaro Morte",
+      "Itziar Ituño"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/80192098",
+    "type": "series"
+  },
+  {
+    "name": "The Crown",
+    "id": "the-crown",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheCrown.jpg?raw=true",
+    "rating": "8.6",
+    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "cast": [
+      "Claire Foy",
+      "Olivia Colman",
+      "Imelda Staunton"
+    ],
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "watch_url": "https://www.netflix.com/title/80025678",
+    "type": "series"
+  },
+  {
+    "name": "Squid Game",
+    "id": "squid-game",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/SquidGame.jpg?raw=true",
+    "rating": "8.1",
+    "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "cast": [
+      "Lee Jung-jae",
+      "Park Hae-soo",
+      "Wi Ha-joon"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.netflix.com/title/81040344",
+    "type": "series"
+  },
+  {
+    "name": "Queen of Tears",
+    "id": "queen-of-tears",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/QueenOfTears.jpg?raw=true",
+    "rating": "8.6",
+    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
+    "cast": [
+      "Kim Soo Hyun",
+      "Kim Ji Won"
+    ],
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears",
+    "type": "series"
+  },
+  {
+    "name": "Mismatched",
+    "id": "mismatched",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/Mismatched.jpg?raw=true",
+    "rating": "5.9",
+    "description": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program — but deeper feelings aren’t far behind.",
+    "cast": [
+      "Prajakta Koli",
+      "Rohit Saraf",
+      "Taaruk Raina",
+      "Muskkaan Jaferi",
+      "Rannvijay Singha",
+      "Vidya Malavade",
+      "Ahsaas Channa",
+      "Abhinav Sharma",
+      "Lauren Robinson",
+      "Vihaan Samat"
+    ],
+    "genre": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "watch_url": "https://www.netflix.com/in/title/80220079",
+    "type": "series"
+  },
+  {
+    "name": "The Umbrella Academy",
+    "id": "the-umbrella-academy",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheUmbrellaAcademy.jpg?raw=true",
+    "rating": "8.0",
+    "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+    "cast": [
+      "Ellen Page",
+      "Tom Hopper",
+      "David Castañeda"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "watch_url": "https://www.netflix.com/title/80186863",
+    "type": "series"
+  },
+  {
+    "name": "The Haunting of Hill House",
+    "id": "the-haunting-of-hill-house",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheHauntingOfHillHouse.jpg?raw=true",
+    "rating": "8.6",
+    "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+    "cast": [
+      "Michiel Huisman",
+      "Carla Gugino",
+      "Henry Thomas"
+    ],
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "watch_url": "https://www.netflix.com/title/80189221",
+    "type": "series"
+  },
+  {
+    "name": "The Queen's Gambit",
+    "id": "the-queens-gambit",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheQueensGambit.jpg?raw=true",
+    "rating": "8.6",
+    "description": "Orphaned at 9, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA.",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Chloe Pirrie",
+      "Bill Camp"
+    ],
+    "genre": [
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/80234304",
+    "type": "series"
+  },
+  {
+    "name": "The Mandalorian",
+    "id": "the-mandalorian",
+    "img_url": "https://github.com/mohitmalayanandy/movieCard/blob/main/public/images/TheMandalorian.jpg?raw=true",
+    "rating": "8.8",
+    "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "cast": [
+      "Pedro Pascal",
+      "Gina Carano",
+      "Giancarlo Esposito"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "watch_url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD",
+    "type": "series"
+  },
+  {
+    "name": "The Mentalist",
+    "id": "the-mentalist-2008",
+    "type": "series",
+    "year": 2008,
+    "img_url": "images/the-mentalist-2008.jpg",
+    "rating": null,
+    "description": "A gifted observer helps California investigators solve murders while pursuing the killer who destroyed his family.",
+    "cast": [
+      "Simon Baker",
+      "Robin Tunney"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Mentalist",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1196946/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_.jpg"
+  },
+  {
+    "name": "Reacher",
+    "id": "reacher-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/reacher-2022.jpg",
+    "rating": null,
+    "description": "A former military investigator drifts into dangerous conspiracies and takes on powerful enemies.",
+    "cast": [
+      "Alan Ritchson",
+      "Malcolm Goodwin"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Reacher",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9288030/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Mirzapur",
+    "id": "mirzapur-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/mirzapur-2018.jpg",
+    "rating": null,
+    "description": "Ambition and revenge draw two brothers into a ruthless crime family's struggle for control.",
+    "cast": [
+      "Pankaj Tripathi",
+      "Ali Fazal",
+      "Divyenndu"
+    ],
+    "genre": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mirzapur",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt6473300/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZTFjMzMxZTUtYTMyNy00OWNhLTk4ODQtNGI1NjI1NjJhMzc3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Top Gun: Maverick",
+    "id": "top-gun-maverick-2022",
+    "type": "movie",
+    "year": 2022,
+    "img_url": "images/top-gun-maverick-2022.jpg",
+    "rating": null,
+    "description": "A veteran naval aviator trains a new generation of pilots for a mission that tests their limits.",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Top%20Gun%3A%20Maverick",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1745960/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Babita Singh Reporting",
+    "id": "babita-singh-reporting-2026",
+    "type": "movie",
+    "year": 2026,
+    "img_url": "images/babita-singh-reporting-2026.jpg",
+    "rating": null,
+    "description": "An underestimated police officer investigates a childhood friend's murder while confronting secrets within her own family.",
+    "cast": [
+      "Nimisha Sajayan",
+      "Barun Sobti",
+      "Anshuman Pushkar"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Babita%20Singh%20Reporting",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt40915016/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Jurassic World",
+    "id": "jurassic-world-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/jurassic-world-2015.jpg",
+    "rating": null,
+    "description": "A genetically engineered predator escapes inside a dinosaur theme park, turning a holiday into a fight for survival.",
+    "cast": [
+      "Chris Pratt",
+      "Bryce Dallas Howard"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jurassic%20World",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0369610/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Off Campus",
+    "id": "off-campus-2026",
+    "type": "series",
+    "year": 2026,
+    "img_url": "images/off-campus-2026.jpg",
+    "rating": null,
+    "description": "College hockey players and the women in their lives navigate ambition, friendship, and complicated romances.",
+    "cast": [
+      "Ella Bright",
+      "Belmont Cameli"
+    ],
+    "genre": [
+      "Romance",
+      "Drama",
+      "Sport"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Off%20Campus",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt33546863/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDA0NzAzNDktYjBiOS00ZjFjLThhZTYtNzlkMDMzOTgxZTk5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Guy Ritchie's The Covenant",
+    "id": "guy-ritchie-s-the-covenant-2023",
+    "type": "movie",
+    "year": 2023,
+    "img_url": "images/guy-ritchie-s-the-covenant-2023.jpg",
+    "rating": null,
+    "description": "An American soldier returns to Afghanistan to rescue the interpreter who once saved his life.",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Dar Salim"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Guy%20Ritchie%27s%20The%20Covenant",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4873118/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDY2NmI1YzAtYmE2OS00NTY4LWJjM2UtNjQzMDliYzc5MzUyXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Shershaah",
+    "id": "shershaah-2021",
+    "type": "movie",
+    "year": 2021,
+    "img_url": "images/shershaah-2021.jpg",
+    "rating": null,
+    "description": "The life and courage of Indian Army officer Vikram Batra unfold against the backdrop of the Kargil War.",
+    "cast": [
+      "Sidharth Malhotra",
+      "Kiara Advani"
+    ],
+    "genre": [
+      "Biography",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Shershaah",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt10295212/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZTAzNzg0OGUtZmY1My00Y2VmLTk2YzYtNDU3MjlmNzU5ZjE3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Sherlock",
+    "id": "sherlock-2010",
+    "type": "series",
+    "year": 2010,
+    "img_url": "images/sherlock-2010.jpg",
+    "rating": null,
+    "description": "A brilliant consulting detective and his army-doctor flatmate unravel crimes in modern London.",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Martin Freeman"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Sherlock",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1475582/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjRhZDdjMDYtMTg5Yy00NGI4LWI3ZDgtYjNkNDc4MzJkNDRjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Psych",
+    "id": "psych-2006",
+    "type": "series",
+    "year": 2006,
+    "img_url": "images/psych-2006.jpg",
+    "rating": null,
+    "description": "An observant amateur pretends to be psychic and opens a detective agency with his best friend.",
+    "cast": [
+      "James Roday Rodriguez",
+      "Dulé Hill"
+    ],
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Psych",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0491738/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDhiNDEwZDAtNGY3NS00ODU3LWE2NjUtYWNiNGFhZjIyMDg5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "White Collar",
+    "id": "white-collar-2009",
+    "type": "series",
+    "year": 2009,
+    "img_url": "images/white-collar-2009.jpg",
+    "rating": null,
+    "description": "A charming con artist partners with the FBI agent who caught him to solve sophisticated crimes.",
+    "cast": [
+      "Matt Bomer",
+      "Tim DeKay"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=White%20Collar",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1358522/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDI5MDgyMTYzNF5BMl5BanBnXkFtZTcwMjAwNzk1Mw@@._V1_.jpg"
+  },
+  {
+    "name": "Elementary",
+    "id": "elementary-2012",
+    "type": "series",
+    "year": 2012,
+    "img_url": "images/elementary-2012.jpg",
+    "rating": null,
+    "description": "Sherlock Holmes and Joan Watson bring unconventional investigative skills to modern New York.",
+    "cast": [
+      "Jonny Lee Miller",
+      "Lucy Liu"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Elementary",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2191671/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNTdmOTQ5YjUtYTBkMS00YzhmLTg4ZGEtZTc5MzYxNzI5MThhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Person of Interest",
+    "id": "person-of-interest-2011",
+    "type": "series",
+    "year": 2011,
+    "img_url": "images/person-of-interest-2011.jpg",
+    "rating": null,
+    "description": "A former operative and a reclusive billionaire use predictive technology to prevent violent crimes.",
+    "cast": [
+      "Jim Caviezel",
+      "Michael Emerson"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Person%20of%20Interest",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1839578/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BOTcxNDJiMTUtN2ZhZS00OGE1LWJmZmYtN2VhYThiZTBhYWM1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Blacklist",
+    "id": "the-blacklist-2013",
+    "type": "series",
+    "year": 2013,
+    "img_url": "images/the-blacklist-2013.jpg",
+    "rating": null,
+    "description": "A notorious fugitive offers to help the FBI capture criminals on the condition that he works with one rookie profiler.",
+    "cast": [
+      "James Spader",
+      "Megan Boone"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Blacklist",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2741602/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDk4MGU4NTItNDMyMC00NjQ0LWFlMWUtYzJlMTM1M2M2ZTU3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Bosch",
+    "id": "bosch-2014",
+    "type": "series",
+    "year": 2014,
+    "img_url": "images/bosch-2014.jpg",
+    "rating": null,
+    "description": "A Los Angeles homicide detective pursues difficult cases while navigating institutional pressure and his own past.",
+    "cast": [
+      "Titus Welliver",
+      "Jamie Hector"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Bosch",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt3502248/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNjhlNDQ5MzQtMzAxYy00MmYwLTgzYmItMzNhMzNiNzdhYzI2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Jack Ryan",
+    "id": "jack-ryan-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/jack-ryan-2018.jpg",
+    "rating": null,
+    "description": "A CIA analyst follows suspicious financial transactions into dangerous international operations.",
+    "cast": [
+      "John Krasinski",
+      "Wendell Pierce"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jack%20Ryan",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt5057054/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNGYxNzgzNTQtY2U0OC00NzU2LTgxZmYtNmZkMmVlMjgyMzM3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Terminal List",
+    "id": "the-terminal-list-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/the-terminal-list-2022.jpg",
+    "rating": null,
+    "description": "A Navy SEAL investigates the ambush that destroyed his team as troubling questions emerge about his memories.",
+    "cast": [
+      "Chris Pratt",
+      "Constance Wu"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Terminal%20List",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt11743610/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYTFiZDQ1NWItODBkZS00ZjA1LThkNzUtY2M5Yzk2M2Y3ZDNkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Night Agent",
+    "id": "the-night-agent-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/the-night-agent-2023.jpg",
+    "rating": null,
+    "description": "A low-level FBI agent answers an emergency call that pulls him into a conspiracy reaching the White House.",
+    "cast": [
+      "Gabriel Basso",
+      "Luciane Buchanan"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Night%20Agent",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt13918776/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDU5ZjhhNWMtMjM2MC00OWNmLTlmYTMtOTQ5OTBlZjc2NTdhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Bodyguard",
+    "id": "bodyguard-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/bodyguard-2018.jpg",
+    "rating": null,
+    "description": "A war veteran assigned to protect a senior politician becomes entangled in a deadly security crisis.",
+    "cast": [
+      "Richard Madden",
+      "Keeley Hawes"
+    ],
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Bodyguard",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7493974/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BN2I0NWE2Y2QtM2I3YS00MzRlLThlMjAtMDViNGMwNjRhZjVlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Slow Horses",
+    "id": "slow-horses-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/slow-horses-2022.jpg",
+    "rating": null,
+    "description": "Disgraced intelligence agents relegated to a dead-end department stumble into high-stakes espionage.",
+    "cast": [
+      "Gary Oldman",
+      "Jack Lowden"
+    ],
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Slow%20Horses",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt5875444/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMmM2NDhmYjktNTIzZC00YjIwLWE1ZmUtNzM1MTNiMTU2NjdjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Homeland",
+    "id": "homeland-2011",
+    "type": "series",
+    "year": 2011,
+    "img_url": "images/homeland-2011.jpg",
+    "rating": null,
+    "description": "A CIA officer's suspicions about a returning prisoner of war lead into a complex world of espionage.",
+    "cast": [
+      "Claire Danes",
+      "Mandy Patinkin"
+    ],
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Homeland",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1796960/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjAwNTRmODktZDk5Ny00ZjMwLWFhMDUtOTdlOWNhNDMyZmNkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Prison Break",
+    "id": "prison-break-2005",
+    "type": "series",
+    "year": 2005,
+    "img_url": "images/prison-break-2005.jpg",
+    "rating": null,
+    "description": "An engineer enters prison with an elaborate plan to free his brother from death row.",
+    "cast": [
+      "Wentworth Miller",
+      "Dominic Purcell"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Prison%20Break",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0455275/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg"
+  },
+  {
+    "name": "True Detective",
+    "id": "true-detective-2014",
+    "type": "series",
+    "year": 2014,
+    "img_url": "images/true-detective-2014.jpg",
+    "rating": null,
+    "description": "Troubled investigators pursue haunting crimes in an anthology of dark, character-driven mysteries.",
+    "cast": [
+      "Matthew McConaughey",
+      "Woody Harrelson"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=True%20Detective",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2356777/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Mindhunter",
+    "id": "mindhunter-2017",
+    "type": "series",
+    "year": 2017,
+    "img_url": "images/mindhunter-2017.jpg",
+    "rating": null,
+    "description": "FBI agents interview imprisoned killers to develop a new understanding of criminal behavior.",
+    "cast": [
+      "Jonathan Groff",
+      "Holt McCallany"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mindhunter",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt5290382/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Fargo",
+    "id": "fargo-2014",
+    "type": "series",
+    "year": 2014,
+    "img_url": "images/fargo-2014.jpg",
+    "rating": null,
+    "description": "Ordinary lives spiral into extraordinary violence in an anthology of crime stories across the American Midwest.",
+    "cast": [
+      "Billy Bob Thornton",
+      "Martin Freeman"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Fargo",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2802850/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_.jpg"
+  },
+  {
+    "name": "Breaking Bad",
+    "id": "breaking-bad-2008",
+    "type": "series",
+    "year": 2008,
+    "img_url": "images/breaking-bad-2008.jpg",
+    "rating": null,
+    "description": "A chemistry teacher diagnosed with cancer turns to manufacturing methamphetamine with a former student.",
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Breaking%20Bad",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0903747/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BOWE4NTc3YmYtNmU2Mi00ZjhkLWE1MTItZmM1M2U1ODU3YjFlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Better Call Saul",
+    "id": "better-call-saul-2015",
+    "type": "series",
+    "year": 2015,
+    "img_url": "images/better-call-saul-2015.jpg",
+    "rating": null,
+    "description": "A struggling lawyer's ambition and moral compromises gradually transform him into criminal attorney Saul Goodman.",
+    "cast": [
+      "Bob Odenkirk",
+      "Rhea Seehorn"
+    ],
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Better%20Call%20Saul",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt3032476/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_.jpg"
+  },
+  {
+    "name": "Narcos",
+    "id": "narcos-2015",
+    "type": "series",
+    "year": 2015,
+    "img_url": "images/narcos-2015.jpg",
+    "rating": null,
+    "description": "Drug traffickers and law-enforcement agents clash in the rise and fall of Colombia's cocaine empires.",
+    "cast": [
+      "Wagner Moura",
+      "Pedro Pascal"
+    ],
+    "genre": [
+      "Crime",
+      "Biography",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Narcos",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2707408/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_.jpg"
+  },
+  {
+    "name": "Narcos: Mexico",
+    "id": "narcos-mexico-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/narcos-mexico-2018.jpg",
+    "rating": null,
+    "description": "The emergence of Mexico's modern drug trade brings traffickers and investigators into a devastating conflict.",
+    "cast": [
+      "Diego Luna",
+      "Michael Peña"
+    ],
+    "genre": [
+      "Crime",
+      "Biography",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Narcos%3A%20Mexico",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8714904/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BM2FkZGQyODItOGFlNy00ZDA1LWFjMTEtMGUyYzk0ZDYzNmRjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Ozark",
+    "id": "ozark-2017",
+    "type": "series",
+    "year": 2017,
+    "img_url": "images/ozark-2017.jpg",
+    "rating": null,
+    "description": "A financial adviser moves his family to the Ozarks after a money-laundering scheme goes wrong.",
+    "cast": [
+      "Jason Bateman",
+      "Laura Linney"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Ozark",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt5071412/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZDk1ZTdjOWItNTJmYS00MGIzLThmY2ItZWNiOGY5MzJlNTA5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Peaky Blinders",
+    "id": "peaky-blinders-2013",
+    "type": "series",
+    "year": 2013,
+    "img_url": "images/peaky-blinders-2013.jpg",
+    "rating": null,
+    "description": "A Birmingham gang leader builds a criminal empire amid the upheaval of postwar Britain.",
+    "cast": [
+      "Cillian Murphy",
+      "Paul Anderson"
+    ],
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Peaky%20Blinders",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2442560/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Gangs of London",
+    "id": "gangs-of-london-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/gangs-of-london-2020.jpg",
+    "rating": null,
+    "description": "The assassination of a crime boss ignites a brutal struggle among London's competing criminal organizations.",
+    "cast": [
+      "Sope Dirisu",
+      "Joe Cole"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Gangs%20of%20London",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7661390/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMGVjYjA1MmEtZDU0OS00ZGRmLWFkNDMtOThlOGM0M2ExYWVlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Gentlemen",
+    "id": "the-gentlemen-2024",
+    "type": "series",
+    "year": 2024,
+    "img_url": "images/the-gentlemen-2024.jpg",
+    "rating": null,
+    "description": "An aristocrat inherits a family estate and discovers it is part of a sprawling cannabis operation.",
+    "cast": [
+      "Theo James",
+      "Kaya Scodelario"
+    ],
+    "genre": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Gentlemen",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt13210838/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Family Man",
+    "id": "the-family-man-2019",
+    "type": "series",
+    "year": 2019,
+    "img_url": "images/the-family-man-2019.jpg",
+    "rating": null,
+    "description": "An intelligence officer balances dangerous national-security work with the demands of everyday family life.",
+    "cast": [
+      "Manoj Bajpayee",
+      "Priyamani"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Family%20Man",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9544034/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZjM3YTczOWQtNjkzNi00ZTRlLThkZWEtZjgwZGVmODhkMDU3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Paatal Lok",
+    "id": "paatal-lok-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/paatal-lok-2020.jpg",
+    "rating": null,
+    "description": "A weary police officer investigates an assassination attempt that exposes a web of power and prejudice.",
+    "cast": [
+      "Jaideep Ahlawat",
+      "Ishwak Singh"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Paatal%20Lok",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9680440/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDUwNzAtZTgyYi00YjhlLThhZTEtYTIxMzdjZjVkOTI3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Farzi",
+    "id": "farzi-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/farzi-2023.jpg",
+    "rating": null,
+    "description": "A talented artist enters the counterfeit currency business and draws the attention of a relentless investigator.",
+    "cast": [
+      "Shahid Kapoor",
+      "Vijay Sethupathi"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Farzi",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt15477488/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDY2OWMxNzgtZGQ4Ny00ODI3LTk3MTAtYjM4N2U4ZGI3ZGY1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Sacred Games",
+    "id": "sacred-games-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/sacred-games-2018.jpg",
+    "rating": null,
+    "description": "A Mumbai police officer follows a gangster's cryptic warning into a conspiracy threatening the city.",
+    "cast": [
+      "Saif Ali Khan",
+      "Nawazuddin Siddiqui"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Sacred%20Games",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt6077448/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BN2EyODc1MDAtNTg0ZC00MjRhLTg1NzctM2NjYTlmOGMwYWNiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Asur",
+    "id": "asur-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/asur-2020.jpg",
+    "rating": null,
+    "description": "Forensic investigators pursue a serial killer whose crimes are shaped by mythology and a disturbing worldview.",
+    "cast": [
+      "Arshad Warsi",
+      "Barun Sobti"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Asur",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt11912196/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDZkOGQzMjItNTliOC00NTIxLTg4ODEtNTMxZWY1OTk5ZWM0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Special OPS",
+    "id": "special-ops-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/special-ops-2020.jpg",
+    "rating": null,
+    "description": "An intelligence officer leads a long-running search for the mastermind behind a series of terror attacks.",
+    "cast": [
+      "Kay Kay Menon",
+      "Karan Tacker"
+    ],
+    "genre": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Special%20OPS",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt11854694/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BN2E3OTI0OGItMWRhMi00NjU1LTk1ZTctMDEwOWZiMDczOWNlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Night Manager",
+    "id": "the-night-manager-2016",
+    "type": "series",
+    "year": 2016,
+    "img_url": "images/the-night-manager-2016.jpg",
+    "rating": null,
+    "description": "A former soldier working in a luxury hotel is recruited to infiltrate an international arms dealer's inner circle.",
+    "cast": [
+      "Tom Hiddleston",
+      "Hugh Laurie"
+    ],
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Night%20Manager",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1399664/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BODA1NDA1ODUtNGM0Ny00NWZkLTlhZmYtMzQ3NDk2OWZjNjMzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Delhi Crime",
+    "id": "delhi-crime-2019",
+    "type": "series",
+    "year": 2019,
+    "img_url": "images/delhi-crime-2019.jpg",
+    "rating": null,
+    "description": "Delhi police investigators confront difficult cases while navigating public scrutiny and institutional challenges.",
+    "cast": [
+      "Shefali Shah",
+      "Rasika Dugal"
+    ],
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Delhi%20Crime",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9398466/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTMzYmJhOTQtODNkMy00ZjQxLTg0ODItMDQzM2E5NWMzNzI1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Dahaad",
+    "id": "dahaad-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/dahaad-2023.jpg",
+    "rating": null,
+    "description": "A police officer investigating women's deaths begins to suspect a methodical serial killer.",
+    "cast": [
+      "Sonakshi Sinha",
+      "Vijay Varma"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Dahaad",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt19868314/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYmRhMzg1MzQtNDkxOC00NTg0LWI5ZTEtYThhNWM4MjM3OGRlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Breathe",
+    "id": "breathe-2018",
+    "type": "series",
+    "year": 2018,
+    "img_url": "images/breathe-2018.jpg",
+    "rating": null,
+    "description": "A desperate father takes increasingly dangerous steps to save his son, drawing a police officer into his path.",
+    "cast": [
+      "R. Madhavan",
+      "Amit Sadh"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Breathe",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt6466208/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTczNjIzNjk5N15BMl5BanBnXkFtZTgwNTAyMDk1NDM@._V1_.jpg"
+  },
+  {
+    "name": "Aarya",
+    "id": "aarya-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/aarya-2020.jpg",
+    "rating": null,
+    "description": "A mother is drawn into her family's criminal business while trying to protect her children.",
+    "cast": [
+      "Sushmita Sen",
+      "Chandrachur Singh"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Aarya",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt12448030/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZGQ3OGQ2ZjktODhlMy00YTg2LWIxOTEtYzI5Mjg3MGNkMDQzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Criminal Justice",
+    "id": "criminal-justice-2019",
+    "type": "series",
+    "year": 2019,
+    "img_url": "images/criminal-justice-2019.jpg",
+    "rating": null,
+    "description": "A young man accused of murder struggles through the justice system with the help of an unconventional lawyer.",
+    "cast": [
+      "Vikrant Massey",
+      "Pankaj Tripathi"
+    ],
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Criminal%20Justice",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9095260/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZTAzZDYwMjgtOGViMy00MTRlLTg2NDEtZmM5ZWVmYzg1MWUwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Scam 1992: The Harshad Mehta Story",
+    "id": "scam-1992-the-harshad-mehta-story-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/scam-1992-the-harshad-mehta-story-2020.jpg",
+    "rating": null,
+    "description": "An ambitious stockbroker's meteoric rise exposes weaknesses in India's financial system.",
+    "cast": [
+      "Pratik Gandhi",
+      "Shreya Dhanwanthary"
+    ],
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Scam%201992%3A%20The%20Harshad%20Mehta%20Story",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt12392504/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNGRkOTVjODgtNTBmZS00MDQ3LWE3ZjQtM2ZiNDQ3OWJkMjM2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Guns & Gulaabs",
+    "id": "guns-gulaabs-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/guns-gulaabs-2023.jpg",
+    "rating": null,
+    "description": "Crime, romance, and bad decisions collide in a small town caught in the opium trade.",
+    "cast": [
+      "Rajkummar Rao",
+      "Dulquer Salmaan"
+    ],
+    "genre": [
+      "Crime",
+      "Comedy",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Guns%20%26%20Gulaabs",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt17524566/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDRkYjcxNjktMTk3ZS00ZjQ2LWI3ZDMtMWM2NTI1ZWYzYjA4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Khakee: The Bihar Chapter",
+    "id": "khakee-the-bihar-chapter-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/khakee-the-bihar-chapter-2022.jpg",
+    "rating": null,
+    "description": "A determined police officer tracks a ruthless criminal through Bihar's volatile political landscape.",
+    "cast": [
+      "Karan Tacker",
+      "Avinash Tiwary"
+    ],
+    "genre": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Khakee%3A%20The%20Bihar%20Chapter",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt23037654/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BY2QzNDZkMWUtZTBkNy00MzMzLWIzMmEtZWFlNzRiZTdhNzFjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Kohrra",
+    "id": "kohrra-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/kohrra-2023.jpg",
+    "rating": null,
+    "description": "Two Punjab police officers investigate a groom's murder while their personal lives begin to unravel.",
+    "cast": [
+      "Barun Sobti",
+      "Suvinder Vicky"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Kohrra",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt27853283/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZGJiMDAwOTctM2M2ZS00MjQzLWIzMmItNmRmZjUzNTU2YzA0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Suzhal: The Vortex",
+    "id": "suzhal-the-vortex-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/suzhal-the-vortex-2022.jpg",
+    "rating": null,
+    "description": "A disappearance during a small town's religious festival exposes unsettling secrets beneath its close-knit community.",
+    "cast": [
+      "Aishwarya Rajesh",
+      "Kathir"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Suzhal%3A%20The%20Vortex",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt20873118/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Panchayat",
+    "id": "panchayat-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/panchayat-2020.jpg",
+    "rating": null,
+    "description": "An engineering graduate takes a village government job and slowly finds connection in unfamiliar surroundings.",
+    "cast": [
+      "Jitendra Kumar",
+      "Neena Gupta"
+    ],
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Panchayat",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt12004706/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNjMwYWMxNjYtY2I2NC00OWE0LTg4MmQtMmI5ZGI2NzU4ODhiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Kota Factory",
+    "id": "kota-factory-2019",
+    "type": "series",
+    "year": 2019,
+    "img_url": "images/kota-factory-2019.jpg",
+    "rating": null,
+    "description": "Teenagers preparing for competitive engineering exams navigate academic pressure and friendship in Kota.",
+    "cast": [
+      "Mayur More",
+      "Jitendra Kumar"
+    ],
+    "genre": [
+      "Drama",
+      "Comedy"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Kota%20Factory",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9432978/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BY2U5MjY1NWEtZDI2MS00NTlhLWEyODQtYzE0MzY3NDUyNzE3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Aspirants",
+    "id": "aspirants-2021",
+    "type": "series",
+    "year": 2021,
+    "img_url": "images/aspirants-2021.jpg",
+    "rating": null,
+    "description": "Civil-service hopefuls confront ambition, friendship, and the sacrifices demanded by a highly competitive exam.",
+    "cast": [
+      "Naveen Kasturia",
+      "Sunny Hinduja"
+    ],
+    "genre": [
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Aspirants",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt14392248/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNjQ4NjFlMDMtMjczZC00YmU5LWI0YjgtMzU0YTkwNGIwNjNkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Maxton Hall: The World Between Us",
+    "id": "maxton-hall-the-world-between-us-2024",
+    "type": "series",
+    "year": 2024,
+    "img_url": "images/maxton-hall-the-world-between-us-2024.jpg",
+    "rating": null,
+    "description": "A scholarship student and a wealthy heir clash after a secret draws their worlds together at an elite school.",
+    "cast": [
+      "Harriet Herbig-Matten",
+      "Damian Hardung"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Maxton%20Hall%3A%20The%20World%20Between%20Us",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt27792190/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDZjYmMwZmEtOGVhZC00MGRkLWFiNzUtYzg0ZTk2MGFlMzIzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "id": "the-summer-i-turned-pretty-2022",
+    "type": "series",
+    "year": 2022,
+    "img_url": "images/the-summer-i-turned-pretty-2022.jpg",
+    "rating": null,
+    "description": "A teenager's annual summer at the beach becomes complicated by changing friendships and first love.",
+    "cast": [
+      "Lola Tung",
+      "Christopher Briney",
+      "Gavin Casalegno"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Summer%20I%20Turned%20Pretty",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt14016500/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjY0OWZkYjEtYzBmZC00NThhLWFjOGYtM2Q5NDA5MWJjZGVkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Normal People",
+    "id": "normal-people-2020",
+    "type": "series",
+    "year": 2020,
+    "img_url": "images/normal-people-2020.jpg",
+    "rating": null,
+    "description": "Two Irish students develop an intimate connection that changes as they move from school to university.",
+    "cast": [
+      "Daisy Edgar-Jones",
+      "Paul Mescal"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Normal%20People",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt9059760/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYWUzNjQ2YmYtNWI3Yi00NzNmLWJjYWYtMDFiM2RjYjNjZWZmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "One Day",
+    "id": "one-day-2024",
+    "type": "series",
+    "year": 2024,
+    "img_url": "images/one-day-2024.jpg",
+    "rating": null,
+    "description": "Two graduates reconnect across the years as friendship, timing, and love reshape their lives.",
+    "cast": [
+      "Ambika Mod",
+      "Leo Woodall"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=One%20Day",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt16283804/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BODVlNzI0MmYtYmE4Yi00ZTgxLThmY2ItNjE4YzY3NmQzZTNiXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "My Life with the Walter Boys",
+    "id": "my-life-with-the-walter-boys-2023",
+    "type": "series",
+    "year": 2023,
+    "img_url": "images/my-life-with-the-walter-boys-2023.jpg",
+    "rating": null,
+    "description": "After a family tragedy, a teenager moves to rural Colorado and adjusts to life in a large household.",
+    "cast": [
+      "Nikki Rodriguez",
+      "Noah LaLonde",
+      "Ashby Gentry"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=My%20Life%20with%20the%20Walter%20Boys",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8323628/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjdmN2FmMWUtZmYxOC00OGY5LTk5NjgtYjViNjYyZDc1YWU3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Suits",
+    "id": "suits-2011",
+    "type": "series",
+    "year": 2011,
+    "img_url": "images/suits-2011.jpg",
+    "rating": null,
+    "description": "A gifted college dropout joins a prestigious law firm despite never having attended law school.",
+    "cast": [
+      "Gabriel Macht",
+      "Patrick J. Adams"
+    ],
+    "genre": [
+      "Drama",
+      "Comedy"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Suits",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1632701/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Top Gun",
+    "id": "top-gun-1986",
+    "type": "movie",
+    "year": 1986,
+    "img_url": "images/top-gun-1986.jpg",
+    "rating": null,
+    "description": "A talented but reckless naval aviator competes at an elite fighter-pilot training school.",
+    "cast": [
+      "Tom Cruise",
+      "Kelly McGillis"
+    ],
+    "genre": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Top%20Gun",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0092099/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Mission: Impossible",
+    "id": "mission-impossible-1996",
+    "type": "movie",
+    "year": 1996,
+    "img_url": "images/mission-impossible-1996.jpg",
+    "rating": null,
+    "description": "An intelligence operative framed for his team's deaths goes on the run to uncover a traitor.",
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mission%3A%20Impossible",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0117060/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Mission: Impossible - Ghost Protocol",
+    "id": "mission-impossible-ghost-protocol-2011",
+    "type": "movie",
+    "year": 2011,
+    "img_url": "images/mission-impossible-ghost-protocol-2011.jpg",
+    "rating": null,
+    "description": "Disavowed after a Kremlin bombing, Ethan Hunt's team works without support to prevent a nuclear crisis.",
+    "cast": [
+      "Tom Cruise",
+      "Jeremy Renner"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mission%3A%20Impossible%20-%20Ghost%20Protocol",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1229238/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_.jpg"
+  },
+  {
+    "name": "Mission: Impossible - Rogue Nation",
+    "id": "mission-impossible-rogue-nation-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/mission-impossible-rogue-nation-2015.jpg",
+    "rating": null,
+    "description": "Ethan Hunt pursues a secret organization of rogue operatives while his own agency faces dissolution.",
+    "cast": [
+      "Tom Cruise",
+      "Rebecca Ferguson"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mission%3A%20Impossible%20-%20Rogue%20Nation",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2381249/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Mission: Impossible - Fallout",
+    "id": "mission-impossible-fallout-2018",
+    "type": "movie",
+    "year": 2018,
+    "img_url": "images/mission-impossible-fallout-2018.jpg",
+    "rating": null,
+    "description": "A failed mission forces Ethan Hunt and his allies into a race to recover stolen plutonium.",
+    "cast": [
+      "Tom Cruise",
+      "Henry Cavill"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Mission%3A%20Impossible%20-%20Fallout",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4912910/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "id": "edge-of-tomorrow-2014",
+    "type": "movie",
+    "year": 2014,
+    "img_url": "images/edge-of-tomorrow-2014.jpg",
+    "rating": null,
+    "description": "A soldier trapped in a time loop relives a deadly battle and learns how to fight an alien invasion.",
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt"
+    ],
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Edge%20of%20Tomorrow",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1631867/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg"
+  },
+  {
+    "name": "Oblivion",
+    "id": "oblivion-2013",
+    "type": "movie",
+    "year": 2013,
+    "img_url": "images/oblivion-2013.jpg",
+    "rating": null,
+    "description": "A technician stationed on a devastated Earth discovers evidence that challenges everything he believes.",
+    "cast": [
+      "Tom Cruise",
+      "Andrea Riseborough"
+    ],
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Oblivion",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1483013/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_.jpg"
+  },
+  {
+    "name": "Jack Reacher",
+    "id": "jack-reacher-2012",
+    "type": "movie",
+    "year": 2012,
+    "img_url": "images/jack-reacher-2012.jpg",
+    "rating": null,
+    "description": "A former military investigator questions an apparently straightforward case involving a deadly sniper attack.",
+    "cast": [
+      "Tom Cruise",
+      "Rosamund Pike"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jack%20Reacher",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0790724/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_.jpg"
+  },
+  {
+    "name": "Jack Reacher: Never Go Back",
+    "id": "jack-reacher-never-go-back-2016",
+    "type": "movie",
+    "year": 2016,
+    "img_url": "images/jack-reacher-never-go-back-2016.jpg",
+    "rating": null,
+    "description": "Reacher helps a military officer accused of espionage uncover a conspiracy inside a defense contractor.",
+    "cast": [
+      "Tom Cruise",
+      "Cobie Smulders"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jack%20Reacher%3A%20Never%20Go%20Back",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt3393786/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BODQ3ODQ3NDI4NV5BMl5BanBnXkFtZTgwMDY1Mzk5OTE@._V1_.jpg"
+  },
+  {
+    "name": "The Bourne Identity",
+    "id": "the-bourne-identity-2002",
+    "type": "movie",
+    "year": 2002,
+    "img_url": "images/the-bourne-identity-2002.jpg",
+    "rating": null,
+    "description": "An amnesiac rescued at sea discovers deadly skills and tries to uncover who is hunting him.",
+    "cast": [
+      "Matt Damon",
+      "Franka Potente"
+    ],
+    "genre": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Bourne%20Identity",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0258463/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Bourne Supremacy",
+    "id": "the-bourne-supremacy-2004",
+    "type": "movie",
+    "year": 2004,
+    "img_url": "images/the-bourne-supremacy-2004.jpg",
+    "rating": null,
+    "description": "Jason Bourne is drawn out of hiding after being framed for an attack on a CIA operation.",
+    "cast": [
+      "Matt Damon",
+      "Joan Allen"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Bourne%20Supremacy",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0372183/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Bourne Ultimatum",
+    "id": "the-bourne-ultimatum-2007",
+    "type": "movie",
+    "year": 2007,
+    "img_url": "images/the-bourne-ultimatum-2007.jpg",
+    "rating": null,
+    "description": "Bourne follows clues to the covert program that erased his identity while evading a new generation of assassins.",
+    "cast": [
+      "Matt Damon",
+      "Julia Stiles"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Bourne%20Ultimatum",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0440963/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYzE3ZGM4MzctZjU5MC00NWE2LTg5ZjYtMDFiM2ZlMWQ1MjkwXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "John Wick",
+    "id": "john-wick-2014",
+    "type": "movie",
+    "year": 2014,
+    "img_url": "images/john-wick-2014.jpg",
+    "rating": null,
+    "description": "A retired assassin returns to a violent underworld after a personal loss.",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=John%20Wick",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt2911666/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
+  },
+  {
+    "name": "John Wick: Chapter 2",
+    "id": "john-wick-chapter-2-2017",
+    "type": "movie",
+    "year": 2017,
+    "img_url": "images/john-wick-chapter-2-2017.jpg",
+    "rating": null,
+    "description": "An old blood oath forces John Wick back into service and puts him in conflict with the assassin network.",
+    "cast": [
+      "Keanu Reeves",
+      "Riccardo Scamarcio"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=John%20Wick%3A%20Chapter%202",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4425200/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_.jpg"
+  },
+  {
+    "name": "John Wick: Chapter 3 - Parabellum",
+    "id": "john-wick-chapter-3-parabellum-2019",
+    "type": "movie",
+    "year": 2019,
+    "img_url": "images/john-wick-chapter-3-parabellum-2019.jpg",
+    "rating": null,
+    "description": "Declared an outlaw by the assassin community, John Wick fights to survive with a massive bounty on his head.",
+    "cast": [
+      "Keanu Reeves",
+      "Halle Berry"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=John%20Wick%3A%20Chapter%203%20-%20Parabellum",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt6146586/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjdlNWFlZjEtM2U0NS00ZWU5LTk1M2EtZmQxNWFiZjk0MGM5XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "John Wick: Chapter 4",
+    "id": "john-wick-chapter-4-2023",
+    "type": "movie",
+    "year": 2023,
+    "img_url": "images/john-wick-chapter-4-2023.jpg",
+    "rating": null,
+    "description": "John Wick challenges the High Table while confronting powerful enemies and complicated alliances.",
+    "cast": [
+      "Keanu Reeves",
+      "Donnie Yen"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=John%20Wick%3A%20Chapter%204",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt10366206/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BY2Q2ZmI5ZjUtNWVhMC00YzJkLTlmYjMtY2RmZDhkNzEzYjZhXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Nobody",
+    "id": "nobody-2021",
+    "type": "movie",
+    "year": 2021,
+    "img_url": "images/nobody-2021.jpg",
+    "rating": null,
+    "description": "A seemingly ordinary suburban father reveals a dangerous past after a home invasion.",
+    "cast": [
+      "Bob Odenkirk",
+      "Connie Nielsen"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Nobody",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7888964/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Equalizer",
+    "id": "the-equalizer-2014",
+    "type": "movie",
+    "year": 2014,
+    "img_url": "images/the-equalizer-2014.jpg",
+    "rating": null,
+    "description": "A quiet man with a lethal skill set confronts violent criminals to protect a young woman.",
+    "cast": [
+      "Denzel Washington",
+      "Chloë Grace Moretz"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Equalizer",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0455944/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_.jpg"
+  },
+  {
+    "name": "Extraction",
+    "id": "extraction-2020",
+    "type": "movie",
+    "year": 2020,
+    "img_url": "images/extraction-2020.jpg",
+    "rating": null,
+    "description": "A mercenary enters Dhaka on a dangerous mission to rescue a kidnapped crime lord's son.",
+    "cast": [
+      "Chris Hemsworth",
+      "Rudhraksh Jaiswal"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Extraction",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8936646/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Extraction 2",
+    "id": "extraction-2-2023",
+    "type": "movie",
+    "year": 2023,
+    "img_url": "images/extraction-2-2023.jpg",
+    "rating": null,
+    "description": "A recovering mercenary takes on a prison rescue that turns into a relentless fight for survival.",
+    "cast": [
+      "Chris Hemsworth",
+      "Golshifteh Farahani"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Extraction%202",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt12263384/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Gray Man",
+    "id": "the-gray-man-2022",
+    "type": "movie",
+    "year": 2022,
+    "img_url": "images/the-gray-man-2022.jpg",
+    "rating": null,
+    "description": "A covert operative uncovers agency secrets and becomes the target of an international manhunt.",
+    "cast": [
+      "Ryan Gosling",
+      "Chris Evans"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Gray%20Man",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1649418/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZmFhZTNlNzctZGQzZi00MTA3LThiNjMtYWQzNjUzMjNjZjA3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Sicario",
+    "id": "sicario-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/sicario-2015.jpg",
+    "rating": null,
+    "description": "An FBI agent joins a secretive operation against a Mexican cartel and questions the methods of her new colleagues.",
+    "cast": [
+      "Emily Blunt",
+      "Benicio del Toro"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Sicario",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt3397884/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_.jpg"
+  },
+  {
+    "name": "Heat",
+    "id": "heat-1995",
+    "type": "movie",
+    "year": 1995,
+    "img_url": "images/heat-1995.jpg",
+    "rating": null,
+    "description": "A meticulous thief and a relentless detective move toward a collision on the streets of Los Angeles.",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro"
+    ],
+    "genre": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Heat",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0113277/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Departed",
+    "id": "the-departed-2006",
+    "type": "movie",
+    "year": 2006,
+    "img_url": "images/the-departed-2006.jpg",
+    "rating": null,
+    "description": "An undercover officer and a mob informant try to expose each other inside Boston's criminal and police worlds.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Departed",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0407887/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg"
+  },
+  {
+    "name": "The Town",
+    "id": "the-town-2010",
+    "type": "movie",
+    "year": 2010,
+    "img_url": "images/the-town-2010.jpg",
+    "rating": null,
+    "description": "A Boston bank robber forms a connection with a former hostage while trying to escape his criminal life.",
+    "cast": [
+      "Ben Affleck",
+      "Rebecca Hall"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Town",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0840361/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_.jpg"
+  },
+  {
+    "name": "Wrath of Man",
+    "id": "wrath-of-man-2021",
+    "type": "movie",
+    "year": 2021,
+    "img_url": "images/wrath-of-man-2021.jpg",
+    "rating": null,
+    "description": "A mysterious armored-truck guard brings a hidden agenda and formidable skills to a dangerous job.",
+    "cast": [
+      "Jason Statham",
+      "Holt McCallany"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Wrath%20of%20Man",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt11083552/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Gentlemen",
+    "id": "the-gentlemen-2019",
+    "type": "movie",
+    "year": 2019,
+    "img_url": "images/the-gentlemen-2019.jpg",
+    "rating": null,
+    "description": "A cannabis entrepreneur's attempt to sell his business triggers blackmail, double-crosses, and competing schemes.",
+    "cast": [
+      "Matthew McConaughey",
+      "Charlie Hunnam"
+    ],
+    "genre": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Gentlemen",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8367814/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "The Man from U.N.C.L.E.",
+    "id": "the-man-from-u-n-c-l-e-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/the-man-from-u-n-c-l-e-2015.jpg",
+    "rating": null,
+    "description": "American and Soviet agents reluctantly join forces to stop a criminal organization from acquiring nuclear weapons.",
+    "cast": [
+      "Henry Cavill",
+      "Armie Hammer"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=The%20Man%20from%20U.N.C.L.E.",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1638355/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDFjN2NlOGItYjZiZi00OThhLTlhYWUtYjgyNWFjMWJlNGU4XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Operation Fortune: Ruse de Guerre",
+    "id": "operation-fortune-ruse-de-guerre-2023",
+    "type": "movie",
+    "year": 2023,
+    "img_url": "images/operation-fortune-ruse-de-guerre-2023.jpg",
+    "rating": null,
+    "description": "A spy team recruits a movie star to help infiltrate an arms dealer's operation.",
+    "cast": [
+      "Jason Statham",
+      "Aubrey Plaza"
+    ],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Operation%20Fortune%3A%20Ruse%20de%20Guerre",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7985704/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjk3MjcwMWQtZDFmMS00NTk2LTkxYWItNWU0NzhlZTFiNTE1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Lone Survivor",
+    "id": "lone-survivor-2013",
+    "type": "movie",
+    "year": 2013,
+    "img_url": "images/lone-survivor-2013.jpg",
+    "rating": null,
+    "description": "A Navy SEAL reconnaissance mission in Afghanistan becomes a desperate struggle for survival.",
+    "cast": [
+      "Mark Wahlberg",
+      "Taylor Kitsch"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Lone%20Survivor",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt1091191/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_.jpg"
+  },
+  {
+    "name": "13 Hours: The Secret Soldiers of Benghazi",
+    "id": "13-hours-the-secret-soldiers-of-benghazi-2016",
+    "type": "movie",
+    "year": 2016,
+    "img_url": "images/13-hours-the-secret-soldiers-of-benghazi-2016.jpg",
+    "rating": null,
+    "description": "A security team defends American personnel during the 2012 attacks in Benghazi.",
+    "cast": [
+      "John Krasinski",
+      "James Badge Dale"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=13%20Hours%3A%20The%20Secret%20Soldiers%20of%20Benghazi",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4172430/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BOGM1MWUzZjktMWY0MS00N2ZhLWJmZjQtNjIxOGVlNzA1OGI0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Black Hawk Down",
+    "id": "black-hawk-down-2001",
+    "type": "movie",
+    "year": 2001,
+    "img_url": "images/black-hawk-down-2001.jpg",
+    "rating": null,
+    "description": "A US military raid in Mogadishu becomes a prolonged urban battle after two helicopters are shot down.",
+    "cast": [
+      "Josh Hartnett",
+      "Ewan McGregor"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Black%20Hawk%20Down",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0265086/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "1917",
+    "id": "1917-2019",
+    "type": "movie",
+    "year": 2019,
+    "img_url": "images/1917-2019.jpg",
+    "rating": null,
+    "description": "Two British soldiers cross enemy territory to deliver a message that could prevent a disastrous attack.",
+    "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman"
+    ],
+    "genre": [
+      "War",
+      "Drama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=1917",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8579674/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Dunkirk",
+    "id": "dunkirk-2017",
+    "type": "movie",
+    "year": 2017,
+    "img_url": "images/dunkirk-2017.jpg",
+    "rating": null,
+    "description": "Allied soldiers, civilian sailors, and fighter pilots struggle through the evacuation of Dunkirk.",
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy"
+    ],
+    "genre": [
+      "War",
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Dunkirk",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt5013056/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_.jpg"
+  },
+  {
+    "name": "Uri: The Surgical Strike",
+    "id": "uri-the-surgical-strike-2019",
+    "type": "movie",
+    "year": 2019,
+    "img_url": "images/uri-the-surgical-strike-2019.jpg",
+    "rating": null,
+    "description": "An Indian Army officer leads a covert operation following a deadly attack on a military base.",
+    "cast": [
+      "Vicky Kaushal",
+      "Yami Gautam"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Uri%3A%20The%20Surgical%20Strike",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8291224/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYTgyMTlkZTgtMTMxYi00Mjk5LTg2NTMtNGYyMDVlZWM0NmZjXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Raazi",
+    "id": "raazi-2018",
+    "type": "movie",
+    "year": 2018,
+    "img_url": "images/raazi-2018.jpg",
+    "rating": null,
+    "description": "An Indian woman marries into a Pakistani military family to gather intelligence before the 1971 war.",
+    "cast": [
+      "Alia Bhatt",
+      "Vicky Kaushal"
+    ],
+    "genre": [
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Raazi",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7098658/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BM2QyMTUyNDktN2JlYi00MmYxLWIyNTItNjYxZWI4OTU4NWNmXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Sardar Udham",
+    "id": "sardar-udham-2021",
+    "type": "movie",
+    "year": 2021,
+    "img_url": "images/sardar-udham-2021.jpg",
+    "rating": null,
+    "description": "An Indian revolutionary carries the trauma of the Jallianwala Bagh massacre into a years-long pursuit of justice.",
+    "cast": [
+      "Vicky Kaushal",
+      "Shaun Scott"
+    ],
+    "genre": [
+      "Biography",
+      "History",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Sardar%20Udham",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt10280296/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMzI5ZTIxOTgtNzU4Zi00YmE4LTlkMTMtNjhkODc0ZjdjZGI3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Pippa",
+    "id": "pippa-2023",
+    "type": "movie",
+    "year": 2023,
+    "img_url": "images/pippa-2023.jpg",
+    "rating": null,
+    "description": "A young Indian tank officer comes of age during the 1971 war and the liberation of Bangladesh.",
+    "cast": [
+      "Ishaan Khatter",
+      "Mrunal Thakur"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Pippa",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt12887208/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMDA1NmZmYzQtMDdmMi00ZDNhLThiZTktMGVmYjFhNzhmZTMxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Lakshya",
+    "id": "lakshya-2004",
+    "type": "movie",
+    "year": 2004,
+    "img_url": "images/lakshya-2004.jpg",
+    "rating": null,
+    "description": "An aimless young man discovers discipline and purpose after joining the Indian Army.",
+    "cast": [
+      "Hrithik Roshan",
+      "Preity Zinta"
+    ],
+    "genre": [
+      "War",
+      "Drama",
+      "Romance"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Lakshya",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0323013/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNzJhOWIzZjUtYzhhOS00MjcwLTkxOGQtYTgwMWU0MzA3NDQ0XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Border",
+    "id": "border-1997",
+    "type": "movie",
+    "year": 1997,
+    "img_url": "images/border-1997.jpg",
+    "rating": null,
+    "description": "A small company of Indian soldiers defends its post against an overwhelming attack during the 1971 war.",
+    "cast": [
+      "Sunny Deol",
+      "Suniel Shetty"
+    ],
+    "genre": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Border",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0118751/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNTMyYjI5NjAtNjg1NS00NWIxLTk3ZTQtMjFiOTA3MWI3ZDIxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Fighter",
+    "id": "fighter-2024",
+    "type": "movie",
+    "year": 2024,
+    "img_url": "images/fighter-2024.jpg",
+    "rating": null,
+    "description": "Elite Indian Air Force pilots face dangerous missions while navigating rivalry, grief, and teamwork.",
+    "cast": [
+      "Hrithik Roshan",
+      "Deepika Padukone"
+    ],
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Fighter",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt13818368/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMzlmOGU5MDYtODVhZC00ZGEzLThjNmEtNTgyYjQ2ZTQwNWYzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "War",
+    "id": "war-2019",
+    "type": "movie",
+    "year": 2019,
+    "img_url": "images/war-2019.jpg",
+    "rating": null,
+    "description": "An intelligence operative is assigned to track down his mentor after the veteran agent goes rogue.",
+    "cast": [
+      "Hrithik Roshan",
+      "Tiger Shroff"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=War",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt7430722/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZGI0ZGQ3MTQtYjllYy00MTkyLTg4ZWUtOTc1MmI2ZDE4OTYyXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Baby",
+    "id": "baby-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/baby-2015.jpg",
+    "rating": null,
+    "description": "An elite Indian intelligence unit races to dismantle an international terrorist network.",
+    "cast": [
+      "Akshay Kumar",
+      "Danny Denzongpa"
+    ],
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Baby",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt3848892/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjVlNzAzY2MtMzI2Ni00YWEwLTliZDYtMjZiNTEyMGUxNDQ2XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Drishyam",
+    "id": "drishyam-2015",
+    "type": "movie",
+    "year": 2015,
+    "img_url": "images/drishyam-2015.jpg",
+    "rating": null,
+    "description": "A cable operator constructs an elaborate defense for his family after a disappearance brings police to their door.",
+    "cast": [
+      "Ajay Devgn",
+      "Tabu"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Drishyam",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4430212/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Andhadhun",
+    "id": "andhadhun-2018",
+    "type": "movie",
+    "year": 2018,
+    "img_url": "images/andhadhun-2018.jpg",
+    "rating": null,
+    "description": "A pianist pretending to be blind becomes entangled in a murder and a series of dangerous deceptions.",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Tabu"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Andhadhun",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8108198/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZjc5OWIzOTgtMmM2ZS00ZjZhLTkyZWItMTFjYTc0NWQ4NzhkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "Jurassic Park",
+    "id": "jurassic-park-1993",
+    "type": "movie",
+    "year": 1993,
+    "img_url": "images/jurassic-park-1993.jpg",
+    "rating": null,
+    "description": "Visitors to a park of cloned dinosaurs struggle to survive when its security systems fail.",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern"
+    ],
+    "genre": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jurassic%20Park",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0107290/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg"
+  },
+  {
+    "name": "Jurassic World: Fallen Kingdom",
+    "id": "jurassic-world-fallen-kingdom-2018",
+    "type": "movie",
+    "year": 2018,
+    "img_url": "images/jurassic-world-fallen-kingdom-2018.jpg",
+    "rating": null,
+    "description": "A mission to rescue dinosaurs from a volcanic island reveals a plan to exploit them on the mainland.",
+    "cast": [
+      "Chris Pratt",
+      "Bryce Dallas Howard"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jurassic%20World%3A%20Fallen%20Kingdom",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt4881806/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg"
+  },
+  {
+    "name": "Jurassic World Dominion",
+    "id": "jurassic-world-dominion-2022",
+    "type": "movie",
+    "year": 2022,
+    "img_url": "images/jurassic-world-dominion-2022.jpg",
+    "rating": null,
+    "description": "As dinosaurs live alongside humanity, two generations of heroes uncover a threat to the global food supply.",
+    "cast": [
+      "Chris Pratt",
+      "Bryce Dallas Howard",
+      "Sam Neill"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=Jurassic%20World%20Dominion",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt8041270/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "name": "King Kong",
+    "id": "king-kong-2005",
+    "type": "movie",
+    "year": 2005,
+    "img_url": "images/king-kong-2005.jpg",
+    "rating": null,
+    "description": "A film expedition reaches a mysterious island and encounters a giant ape whose capture leads to tragedy.",
+    "cast": [
+      "Naomi Watts",
+      "Adrien Brody"
+    ],
+    "genre": [
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "watch_url": "https://www.justwatch.com/in/search?q=King%20Kong",
+    "watch_label": "Find streaming",
+    "source_url": "https://www.imdb.com/title/tt0360717/",
+    "poster_source_url": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_.jpg"
+  }
+]

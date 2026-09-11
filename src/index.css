@@ -1,131 +1,83 @@
-/* this file contain global css style that apply to the entire application. it allows 
-you to apply style that should be applied globally, affecting all components within the 
-app */
-
-/* base code for all  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+:root {
+  font-family:'DM Sans',sans-serif;
+  color:#edf0f3;
+  background:#101114;
+  font-synthesis:none;
+  text-rendering:optimizeLegibility;
+  -webkit-font-smoothing:antialiased;
+  color-scheme:dark
+}
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Urbanist", sans-serif;
-  }
-  
-  html {
-    font-size: 62.5%;
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: var(--heading-color);
-    font-family: "Poppins", sans-serif;
-    font-weight: 900;
-  }
-  
-  h1{
-    font-size: 3.2rem;
-  }
-  p,li,a,label {
-    font-size: 1.8rem;
-    letter-spacing: 0.1rem;
-    color: var(--para-color);
-  }
-  
-  /* theme  */
-  :root {
-    --main-color: #0062ff;
-    --supporting-color: #ebf3f2;
-    --font-color: #424242;
-    --bg-color: #ffffff;
-    --heading-color: #000a19;
-    --h-color: #0a043c;
-    --white-color: #ffffff;
-    --test: #070101;
-    --para-color: #504e4d;
-    --bnt-hover-bg-color: #003b99;
-    --btn-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  
-  }
-  
-  /* layout structuring */
-  
-  .container {
-    max-width: 142rem;
-    margin: 0 auto;
-    padding: 9.6rem 2.4rem;
-  }
-  
-  .grid{
-    display: grid;
-    gap: 9.6rem;
-  }
-  
-  .grid-two-cols{
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  .grid-three--cols{
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  /* Large Screens (Desktops) */
-@media (max-width: 1200px) {
-  .container {
-    padding: 6.4rem 1.6rem;
-  }
-
-  .grid {
-    gap: 4.8rem;
-  }
-
-  h1 {
-    font-size: 2.8rem;
-  }
-
-  p, li, a, label {
-    font-size: 1.6rem;
-  }
+  box-sizing:border-box
 }
 
-/* Medium Screens (Tablets) */
-@media (max-width: 768px) {
-  .container {
-    padding: 4.8rem 1.2rem;
-  }
-
-  .grid-two-cols, .grid-three--cols {
-    grid-template-columns: 1fr;
-  }
-
-  h1 {
-    font-size: 2.4rem;
-  }
-
-  p, li, a, label {
-    font-size: 1.4rem;
-  }
+body {
+  margin:0
 }
 
-/* Small Screens (Mobile Phones) */
-@media (max-width: 480px) {
-  html {
-    font-size: 50%; /* Adjust base font size */
-  }
+button,input,select {
+  font:inherit
+}
 
-  .container {
-    padding: 3.2rem 1rem;
-  }
+button,a,input,select,summary {
+  -webkit-tap-highlight-color:transparent
+}
 
-  h1 {
-    font-size: 2rem;
-  }
+button,a,select,summary {
+  touch-action:manipulation
+}
 
-  p, li, a, label {
-    font-size: 1.2rem;
-    letter-spacing: 0.05rem;
-  }
+button {
+  cursor:pointer
+}
+
+a {
+  color:inherit;
+  text-decoration:none
+}
+
+button {
+  color:inherit
+}
+
+h1,h2,p {
+  margin:0
+}
+
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible {
+  outline:2px solid #c9f16a;
+  outline-offset:5px
+}
+
+.sr-only {
+  position:absolute;
+  width:1px;
+  height:1px;
+  padding:0;
+  margin:-1px;
+  overflow:hidden;
+  clip:rect(0,0,0,0);
+  white-space:nowrap;
+  border:0
+}
+
+.skip-link {
+  position:fixed;
+  top:-80px;
+  left:20px;
+  z-index:9;
+  padding:12px;
+  background:#c9f16a;
+  color:#111
+}
+
+.skip-link:focus {
+  top:12px
+}
+
+::selection {
+  background:#c9f16a;
+  color:#101114
 }
